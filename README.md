@@ -30,11 +30,10 @@ This portfolio includes **interactive projects**, **custom UI effects** (like pa
 
 | Section | Screenshot |
 |---------|-------------|
-| Home / Landing | ![<img width="1470" height="826" alt="Screenshot 2025-09-25 at 12 13 14 AM" src="https://github.com/user-attachments/assets/49d1e0d0-a3a4-45bb-a01c-468d554be232" />] |
-| About Me | ![<img width="1470" height="826" alt="Screenshot 2025-09-25 at 12 13 47 AM" src="https://github.com/user-attachments/assets/ded6000b-c504-44f1-842a-b1d46288c6d5" />) |
-| Animations | ![Animations Screenshot](screenshots/animations.png) |
+| Home / Landing | <img width="1470" height="826" alt="Screenshot 2025-09-25 at 12 13 14 AM" src="https://github.com/user-attachments/assets/49d1e0d0-a3a4-45bb-a01c-468d554be232" /> |
+| About Me | <img width="1470" height="826" alt="Screenshot 2025-09-25 at 12 13 47 AM" src="https://github.com/user-attachments/assets/ded6000b-c504-44f1-842a-b1d46288c6d5" /> |
+| Projects | <img width="1470" height="802" alt="Screenshot 2025-09-25 at 12 27 04 AM" src="https://github.com/user-attachments/assets/994a3415-24a8-4c3f-9355-98434836800b" />|
 
-*(Replace the `screenshots/*.png` paths with your actual screenshot file paths.)*
 
 ---
 
