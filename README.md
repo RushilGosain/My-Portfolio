@@ -4,6 +4,9 @@ A **personal tech portfolio** showcasing my skills in **frontend development**, 
 This portfolio includes **interactive projects**, **custom UI effects** (like particle constellations, comet cursor, and aurora waves), and detailed demonstrations of my **coding**, **design**, and **problem-solving abilities**.
 
 ---
+## 🚀 View My Site
+
+🌎 **Live Demo:** [https://68d4471b2aaa7c04979efd88--rushilportfolio1.netlify.app/)
 
 ## ✨ Features
 
