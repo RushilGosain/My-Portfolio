@@ -1,6 +1,6 @@
 # 🌐 Personal Tech Portfolio
 
-A "personal tech portfolio" showcasing my skills in "frontend development", **data structures & algorithms**, **AI tools**, and **creative web animations**.  
+A **personal tech portfolio** showcasing my skills in **frontend development**, **data structures & algorithms**, **AI tools**, and **creative web animations**.  
 This portfolio includes **interactive projects**, **custom UI effects** (like particle constellations, comet cursor, and aurora waves), and detailed demonstrations of my **coding**, **design**, and **problem-solving abilities**.
 
 ---
@@ -30,8 +30,8 @@ This portfolio includes **interactive projects**, **custom UI effects** (like pa
 
 | Section | Screenshot |
 |---------|-------------|
-| Home / Landing | ![Home Screenshot](screenshots/home.png) |
-| Projects | ![Projects Screenshot](screenshots/projects.png) |
+| Home / Landing | ![<img width="1470" height="826" alt="Screenshot 2025-09-25 at 12 13 14 AM" src="https://github.com/user-attachments/assets/49d1e0d0-a3a4-45bb-a01c-468d554be232" />] |
+| About Me | ![<img width="1470" height="826" alt="Screenshot 2025-09-25 at 12 13 47 AM" src="https://github.com/user-attachments/assets/ded6000b-c504-44f1-842a-b1d46288c6d5" />) |
 | Animations | ![Animations Screenshot](screenshots/animations.png) |
 
 *(Replace the `screenshots/*.png` paths with your actual screenshot file paths.)*
